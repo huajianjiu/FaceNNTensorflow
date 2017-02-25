@@ -1,0 +1,15 @@
+*.txt
+*.ckpt
+*.meta
+*.csv
+*.pyc
+201604*
+*.bk
+*.data
+x
+y
+*.log
+checkpoint
+*.swp
+*.npy
+bccwj_vec
